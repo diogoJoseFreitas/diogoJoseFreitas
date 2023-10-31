@@ -13,6 +13,6 @@
   - Start Data Analyst Formation at Data Science Academy;
   - Get some certification about Excel;
 - Already got some experience with python (Data Analytics, Web Scrapping, GUI with tkinter, ...).
-- Programing Languages: Python, Java, C, HTML, CSS, PyQGIS.
-- Softwares I have some experience with: Excel, Power BI, VSCode, GitHub Desktop, Agisoft Metashape, DroneDeploy, Google Earth Pro, Civil 3D, Dynamo, QGIS, Microsoft 365 Admin Center, Cisco Packet Tracer, ...
+- Programing Languages: Python, Java, C, HTML, CSS.
+- Softwares I have some experience with: Excel, Power BI, VSCode, GitHub Desktop, ...
 - 👯 I’m looking to collaborate on Back-end or Data Analytics projects as Junior Developer.
