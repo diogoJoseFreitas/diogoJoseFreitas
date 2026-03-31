@@ -14,4 +14,4 @@ I'm a Junior Developer and Computer Engineering student passionate about back-en
 
 ---
 ### Some Statistics
- ![diogoJoseFreitas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=diogoJoseFreitas&theme=tokyonight&hide_border=true) ![diogoJoseFreitas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoJoseFreitas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+ ![diogoJoseFreitas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=diogoJoseFreitas&theme=tokyonight&hide_border=true) 
